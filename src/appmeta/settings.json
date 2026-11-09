@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "version": 2,
+    "fields": {
+        "duration": {
+            "label": "Duration, s",
+            "type": "integer",
+            "default": 30,
+            "min": 5,
+            "max": 300
+        },
+        "sound": {
+            "label": "Sound",
+            "type": "boolean",
+            "default": true
+        }
+    }
+}

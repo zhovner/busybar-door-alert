@@ -1,0 +1,9 @@
+{
+    "format_version": 1,
+    "id": "app.home.door_alert",
+    "name": "Door Alert",
+    "version": "0.2.0",
+    "api_version": "27.12.0",
+    "description": "Door-open alert for Home Assistant",
+    "author": "Pavel Zhovner"
+}
